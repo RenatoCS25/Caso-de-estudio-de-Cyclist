@@ -34,22 +34,17 @@ En total, se obtuvieron 4.224.062 filas, lo que significa que se eliminaron 1.44
 ### 4.Analizar
 En primer lugar, se compara a los miembros y ciclistas ocasionales por el tipo de bicicletas que utilizan.
 
-![image](https://github.com/user-attachments/assets/a60b8e56-c8f0-4d2d-a28a-9efa6117eed4)
-
-
-
-
-#### 4.1. Total de Recorridos en 2024´
+#### 4.1. Total de Recorridos en 2024
 La siguiente figura muestra el porcentaje de recorridos realizados por miembros de Cyclistic y ciclistas ocasionales en 2024.
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/6e50f9c5-452c-4d6e-ab5f-5310746cf0d0)
 
 
 Los miembros ciclistas representaron aproximadamente 63,87% del total de recorridos, mientras que los ciclistas ocasionales representaron el 36,13% del total de recorridos en 2024.
 #### 4.2. Tipo de Bicicleta
+
+![image](https://github.com/user-attachments/assets/53b2ffda-40c0-481f-9116-357d74ad7407)
+
 
 
 
@@ -65,6 +60,7 @@ Los ciclistas ocasionales también han utilizado las bicicletas con anclaje.
 #### 4.3. Duración media del viaje
 La duración media del viaje se representa gráficamente en función del tipo de usuario (miembro o ocasional).
 
+![image](https://github.com/user-attachments/assets/e47fb2d8-743e-4415-afdf-d231d195e441)
 
 
 
@@ -76,7 +72,12 @@ La duración media del viaje se representa gráficamente en función del tipo de
 Los miembros ciclistas pueden andar en bicicleta durante unos 12,6 minutos de media, mientras que los ciclistas ocasionales tienen una duración media de 24.2 minutos. Por tanto, la duración de los recorridos de los ciclistas ocasionales es aproximadamente el doble que la de los miembros.
 #### 4.4. Viajes realizados en un mes, dia de semana y horas 
 La preferencia de la actividad ciclista se puede determinar dibujando el gráfico de los viajes realizados por mes , dia y horas 
- 
+ ![image](https://github.com/user-attachments/assets/de567206-e84b-4f17-a133-2eb15a856678)
+ ![image](https://github.com/user-attachments/assets/30cd1edc-d91b-4993-b641-1fa9133acdb8)
+ ![image](https://github.com/user-attachments/assets/672e9dfe-7ae1-4df0-be31-61c975d099f3)
+
+
+
  
  
 
@@ -86,7 +87,15 @@ Horas del día: Los miembros muestran 2 picos a lo largo del día en términos d
 De las observaciones anteriores podemos inferir que los miembros pueden estar usando bicicletas para ir y volver del trabajo durante la semana, mientras que los ciclistas ocasionales usan bicicletas durante todo el día, con mayor frecuencia los fines de semana, para fines de ocio. Ambos son más activos en verano y primavera.
 #### 4.5. Duración media del viaje por mes, días de semana y horas
 Se compara la duración de los viajes para encontrar las diferencias en el comportamiento de los pasajeros ocasionales y los miembros.
- 
+
+![image](https://github.com/user-attachments/assets/ea059b2a-a0c5-4dec-8d25-390f99e9cff3)
+![image](https://github.com/user-attachments/assets/a401338b-fee3-42d8-bfc0-ee7213a4edbc)
+![image](https://github.com/user-attachments/assets/78989be9-f8ea-483c-9bfc-f7720866e4f2)
+
+
+
+
+
  
 
 
@@ -95,25 +104,27 @@ Tenga en cuenta que los ciclistas ocasionales tienden a andar en bicicleta más 
 Estos hallazgos llevan a la conclusión de que los viajeros ocasionales viajan más tiempo (aproximadamente el doble) pero con menos frecuencia que los miembros. Hacen viajes más largos los fines de semana y durante el día fuera de las horas de viaje y en la temporada de primavera y verano, por lo que podrían estar haciéndolo con fines recreativos.
 #### 4.6. Estaciones de partida
 Para entender mejor las diferencias entre los usuarios ocasionales y los usuarios afiliados, se pueden analizar las ubicaciones de las estaciones de partida y de llegada. Se consideran las estaciones con más viajes mediante filtros para extraer las siguientes conclusiones.
+![image](https://github.com/user-attachments/assets/bd11ff42-f3f0-4913-82e8-70f11048cdbe)
+
  
 Los pasajeros ocasionales con frecuencia han comenzado sus viajes desde las estaciones cercanas a museos, parques, playas, puertos y acuarios, mientras que los miembros han comenzado sus viajes desde estaciones cercanas a universidades, áreas residenciales, restaurantes, hospitales, supermercados, teatros, escuelas, bancos, fábricas, estaciones de tren, parques y plazas.
 
 
 
-### 5.Compartir
+### 5. Compartir
 Ver Análisis del uso de bicicletas Dashboard.
-### 6.Actuar
+### 6. Actuar
 A partir del análisis anterior, podemos diseñar estrategias de marketing para convertir a ciclistas ocasionales en miembros de Cyclistic. Este es mi enfoque sugerido:
 #### 1. Personalización de la membresía
 Ofrecer una variedad de personalizaciones de membresía: anual, mensual y diaria. Por ejemplo, $365/año, $45/mes, $3/día. Los usuarios podrán elegir su tipo de membresía según sus propias preferencias. Al presentar planes de membresía a corto plazo con precios adecuados, podemos satisfacer las necesidades de los ciclistas que podrían no necesitar una membresía anual.
-#### 2.Descuentos de membresía grupal
+#### 2. Descuentos de membresía grupal
 Ofrecer planes con descuento para amigos, estudiantes y familias puede alentar las membresías colectivas. Además, alienta a los usuarios a andar en bicicleta juntos y fortalecer los vínculos entre las personas.
-#### 3.Sistema de puntos de fidelidad de membresía
+#### 3. Sistema de puntos de fidelidad de membresía
 Implementar un sistema de puntos de fidelidad de membresía para que los usuarios acumulen puntos por cada recorrido. Se otorgarán recompensas como el descuento de membresía en función de la cantidad de puntos acumulados. Esto alentará a los ciclistas a usar el servicio con mayor frecuencia, lo que impulsará la participación y la lealtad.
-#### 4.Eventos exclusivos para miembros
+#### 4. Eventos exclusivos para miembros
 Organiza eventos exclusivos para miembros, como paseos en grupo, desafíos de exploración urbana o eventos temáticos de ciclismo. Este enfoque no solo fomenta que los miembros actuales realicen más paseos, sino que también incita a los ciclistas ocasionales a unirse como miembros para participar en estas experiencias únicas.
-#### 5.Campañas estacionales
+#### 5. Campañas estacionales
 Lanza campañas estacionales ofreciendo descuentos por tiempo limitado, ofertas especiales para los días de semana o duraciones de paseo extendidas para los miembros durante estas temporadas para ayudar a que el servicio sea más sostenible y manejable.
-#### 6.Interacción en las redes sociales
+#### 6. Interacción en las redes sociales
 Utiliza los medios digitales, incluidas las plataformas de redes sociales, para interactuar con los ciclistas ocasionales y los miembros potenciales. Comparte historias de éxito, testimonios y contenido generado por los usuarios de los miembros de Cyclistic que se han beneficiado de la membresía. Crea contenido visualmente atractivo que muestre la alegría de andar en bicicleta durante diferentes estaciones y escenarios, incitando a los ciclistas ocasionales a convertirse en miembros.
 
