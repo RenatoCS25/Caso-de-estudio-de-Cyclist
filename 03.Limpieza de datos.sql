@@ -8,9 +8,9 @@ SELECT
     started_at, 
     ended_at, 
     DATEDIFF(SECOND, started_at, ended_at) / 60.0 AS ride_length,
-    -- DÌa de la semana (numÈrico para mejor an·lisis)
+    -- D√≠a de la semana (num√©rico para mejor an√°lisis)
     DATEPART(WEEKDAY, started_at) AS day_of_week,
-    -- Mes (numÈrico)
+    -- Mes (num√©rico)
     DATEPART(MONTH, started_at) AS month,
     start_station_name, 
     end_station_name, 
