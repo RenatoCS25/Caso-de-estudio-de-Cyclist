@@ -1,9 +1,9 @@
 # Caso-de-estudio-de-Cyclist
 Cyclistic, un programa de bicicletas compartidas con 5.800 bicicletas y 600 estaciones de anclaje, ofrece opciones inclusivas como bicicletas reclinables y triciclos de mano. La mayoría de los usuarios viajan en bicicleta por ocio, y un 30% viaja al trabajo. La empresa ofrece precios flexibles: viajes individuales, pases de un día completo (ciclistas ocasionales) y membresías anuales (miembros).
 Los analistas financieros descubrieron que los miembros anuales son más rentables. El director de marketing, Moreno, tiene como objetivo convertir a los ciclistas ocasionales en miembros en lugar de apuntar a nuevos clientes. Para lograrlo, el equipo de marketing analizará datos históricos de viajes en bicicleta para comprender las diferencias entre los usuarios, los incentivos para la membresía y el impacto de los medios digitales.
-##Escenario
+## Escenario
 Asumiendo que soy un analista de datos junior que trabaja en el equipo de analistas de marketing de Cyclistic, una empresa de bicicletas compartidas de Chicago. El director de marketing cree que el éxito futuro de la empresa depende de maximizar la cantidad de membresías anuales. Por lo tanto, mi equipo quiere entender cómo los ciclistas ocasionales y los miembros anuales usan las bicicletas de Cyclistic de manera diferente. A partir de estos conocimientos, mi equipo diseñará una nueva estrategia de marketing para convertir a los ciclistas ocasionales en miembros anuales. Pero primero, los ejecutivos de Cyclistic deben aprobar nuestras recomendaciones, por lo que deben estar respaldadas por información convincente sobre los datos y visualizaciones de datos profesionales.
-1. Pregunta
+## 1. Pregunta
 Tarea de negocios
 Idear estrategias de marketing para convertir a los ciclistas ocasionales en miembros.
 Preguntas de análisis
