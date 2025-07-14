@@ -16,7 +16,7 @@ Moreno me ha asignado la primera pregunta para responder: ¿En qué forma difere
 ### 2. Preparar
 #### Fuente de datos
 Usaré los datos históricos de viajes de Cyclistic para analizar e identificar tendencias desde enero de 2022 hasta diciembre de 2022, que se pueden descargar desde divvy_tripdata. Motivate International Inc. ha puesto a disposición los datos bajo esta licencia.
-Estos son datos públicos que se pueden usar para explorar cómo los diferentes tipos de clientes usan las bicicletas de Cyclistic. Pero tenga en cuenta que los problemas de privacidad de los datos prohíben el uso de la información de identificación personal de los ciclistas. Esto significa que no podremos vincular las compras de pases con los números de tarjetas de crédito para determinar si los clientes ocasionales viven en el área de servicio de Cyclistic o si han comprado varios pases individuales.
+Estos son datos públicos que se pueden usar para explorar cómo los diferentes tipos de clientes usan las bicicletas de Cyclistic. 
 
 #### Organización de los datos
 Hay 12 archivos con la convención de nomenclatura AAAAMM-divvy-tripdata y cada archivo incluye información de un mes, como el identificador del viaje, el tipo de bicicleta, la hora de inicio, la hora de finalización, la estación de inicio, la estación de finalización, la ubicación de inicio, la ubicación de finalización y si el ciclista es miembro o no. Los nombres de columna correspondientes son ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng y member_casual.
