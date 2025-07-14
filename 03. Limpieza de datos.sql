@@ -32,7 +32,7 @@ WHERE
 	ALTER TABLE [2024_tripdata.cleaned_combined_data]
 ADD CONSTRAINT PK_ride_id PRIMARY KEY (ride_id);
 
-SELECT COUNT(ride_id) AS no_of_rows       -- returned 4,168,194 from 5,860,568 rows so 1,692,374 rows removed
+SELECT COUNT(ride_id) AS no_of_rows       -- devolvió 4.168.194 de 5.860.568 filas, por lo que se eliminaron 1.692.374 filas
 FROM [2024_tripdata.cleaned_combined_data];
 
 SELECT COUNT(ride_id) AS no_of_rows     
