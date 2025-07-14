@@ -15,7 +15,7 @@ CREATE TABLE Bicicletas (
 	member_casual MEDIUMTEXT
 );
 
--- combining all the 12 months data tables into a single table containing data from Jan 2024 to Dec 2024.
+-- combinando todas las tablas de datos de 12 meses en una sola tabla que contiene datos desde enero de 2024 hasta diciembre de 2024.
 INSERT INTO Bicicletas
     SELECT * FROM [202401]
     UNION ALL
