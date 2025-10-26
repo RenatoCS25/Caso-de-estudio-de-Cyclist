@@ -41,47 +41,27 @@ Se siguió el proceso de análisis propuesto por Google Data Analytics (conocido
 - Se eliminaron viajes con duración menor de 1 minuto o superiores a 1 día (valores extremos).  
 - El dataset final consta de ~ 4.2 millones de registros útiles para análisis.
 
-## 4. Resultados del Análisis Exploratorio
-
-### 4.1. Perfil del Usuario
-El análisis revela diferencias significativas entre los **miembros anuales** y los **usuarios ocasionales** del sistema de bicicletas compartidas de Cyclistic:
-
-- **Volumen de viajes:** los miembros representan entre **63 % y 65 %** del total de viajes, mientras que los usuarios ocasionales concentran entre **35 % y 37 %**.
-- **Duración del viaje:** los usuarios ocasionales realizan trayectos **más largos en promedio**, lo que sugiere un uso orientado al ocio o turismo.
-- **Distribución por hora:**
-  - **Miembros:** concentran sus viajes en **horas pico** (mañana y tarde), reflejando desplazamientos diarios hacia el trabajo o estudio.
-  - **Ocasionales:** presentan una distribución más amplia a lo largo del día, con mayor actividad en **horarios de descanso y ocio**.
-- **Distribución por día de la semana y mes:**
-  - Los **usuarios ocasionales** muestran un incremento marcado durante los **fines de semana**.
-  - Los **miembros** mantienen un patrón más constante entre los días laborables.
-- **Estaciones de inicio y fin:** se observan **diferencias geográficas notables**:
-  - Los **usuarios ocasionales** prefieren estaciones ubicadas en **zonas turísticas o recreativas**.
-  - Los **miembros** utilizan principalmente estaciones en **áreas residenciales y de oficinas**.
-
-### 4.2. Comparaciones Clave y Patrones Observados
-- Los **miembros** realizan **más viajes** pero de **menor duración promedio**.
-- Los **usuarios ocasionales** viajan **menos veces**, aunque sus trayectos son **más largos y esporádicos**.
-- Las **horas pico (7–9 a.m. y 5–7 p.m.)** concentran la mayoría de los viajes de los miembros, mientras que los usuarios ocasionales usan el servicio principalmente entre **10 a.m. y 6 p.m.**.
-- Las **rutas más utilizadas** difieren entre ambos segmentos:
-  - **Miembros →** rutas urbanas y regulares.
-  - **Ocasionales →** rutas hacia zonas de recreo o parques.
-
-Estos resultados muestran **dos perfiles de usuario claramente distintos**: 
-uno enfocado en la **movilidad diaria** y otro en el **ocio ocasional**.  
-Estos hallazgos proporcionan una base sólida para **diseñar estrategias de marketing y fidelización diferenciadas** que respondan a las necesidades y comportamientos de cada tipo de usuario.
-
-
 ## 4. Análisis exploratorio y resultados
 
 ### 4.1. Perfil del usuario
-El análisis muestra diferencias claras entre los miembros anuales y los usuarios ocasionales. Los miembros realizan alrededor del 65 % de los viajes totales, con trayectos más cortos y frecuentes, principalmente en horas pico (mañana y tarde), reflejando un uso cotidiano para ir al trabajo o estudio.  
-Los usuarios ocasionales, en cambio, concentran el 35 % restante, realizan viajes más largos y tienden a usar el servicio entre las 10 a.m. y 6 p.m., especialmente los fines de semana, lo que sugiere un uso recreativo o turístico.  
+El análisis revela diferencias significativas entre los miembros anuales y los usuarios ocasionales del sistema de bicicletas compartidas de Cyclistic.  
+Los miembros representan aproximadamente entre 63 % y 65 % del total de viajes, mientras que los usuarios ocasionales concentran entre 35 % y 37 %. Los miembros suelen realizar trayectos más cortos, con una duración promedio inferior a 15 minutos, mientras que los usuarios ocasionales alcanzan tiempos promedio superiores a 25 minutos, lo que indica un uso más recreativo o turístico.  
 
-En cuanto a las ubicaciones, los miembros utilizan más estaciones en zonas residenciales y de oficinas, mientras que los ocasionales prefieren aquellas cercanas a parques o lugares turísticos.
+En cuanto a los horarios, los miembros muestran picos de uso entre las 7–9 a.m. y 5–7 p.m., coincidiendo con los desplazamientos laborales. Los usuarios ocasionales, por el contrario, presentan una distribución más uniforme durante el día, con mayor actividad entre las 10 a.m. y 6 p.m., especialmente en fines de semana y meses de verano.  
+
+Geográficamente, los miembros tienden a iniciar y finalizar sus viajes en estaciones cercanas a zonas residenciales y de oficinas, mientras que los usuarios ocasionales prefieren estaciones ubicadas en áreas turísticas, parques o zonas recreativas, reflejando diferentes motivaciones de uso.
 
 ### 4.2. Comparaciones clave y patrones observados
-Los miembros usan el sistema con mayor frecuencia pero por menos tiempo; los ocasionales hacen menos viajes pero de mayor duración. Las rutas más comunes difieren: los miembros siguen trayectos urbanos regulares, mientras que los ocasionales eligen recorridos hacia áreas de recreo.  
-En conjunto, los datos confirman dos perfiles de usuario bien definidos: uno orientado a la movilidad diaria y otro al ocio, lo que permite diseñar estrategias diferenciadas de marketing y fidelización.
+Los miembros realizan más viajes a lo largo del año, pero con menor duración promedio, mientras que los usuarios ocasionales hacen menos viajes, aunque más prolongados.  
+Las horas pico concentran una gran proporción de los trayectos de los miembros, en tanto que los usuarios ocasionales se distribuyen en horarios de ocio.  
+
+Las rutas más populares también difieren: los miembros siguen trayectos urbanos regulares, frecuentemente entre estaciones residenciales y de oficinas, mientras que los usuarios ocasionales eligen recorridos hacia zonas de recreo o puntos de interés turístico.  
+
+En conjunto, el análisis confirma la existencia de dos perfiles de usuario claramente diferenciados:  
+- Un perfil **funcional**, orientado al transporte diario y la eficiencia (miembros).  
+- Un perfil **recreativo**, vinculado al ocio, el turismo y el uso esporádico (ocasionales).  
+
+Estos hallazgos proporcionan una base sólida para diseñar estrategias de marketing y fidelización que respondan a las necesidades específicas de cada grupo.
 
 
 ## 5. Insights Estratégicos
