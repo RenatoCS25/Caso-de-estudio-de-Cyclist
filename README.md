@@ -41,23 +41,41 @@ Se siguió el proceso de análisis propuesto por Google Data Analytics (conocido
 - Se eliminaron viajes con duración menor de 1 minuto o superiores a 1 día (valores extremos).  
 - El dataset final consta de ~ 4.2 millones de registros útiles para análisis.
 
-## 4. Análisis exploratorio y resultados
+## 4. Resultados del Análisis Exploratorio
 
-### 4.1. Perfil del usuario  
-- **Volumen de viajes**: los miembros representan aproximadamente **63-65 %** de los viajes totales, frente a ~ 35-37 % de los usuarios ocasionales.  
-- **Duración del viaje**: los usuarios ocasionales tienden a hacer trayectos más largos que los miembros.  
-- **Distribución por hora**:
-  - Miembros: picos en horas de traslado (mañana y tarde).  
-  - Ocasionales: uso más distribuido durante el día, mayor en horas de ocio.  
-- **Distribución por día de la semana / mes**: los ocasionales tienen picos en fines de semana; los miembros mantienen un patrón más constante entre días laborales.  
-- **Estaciones de inicio / fin**: diferencias notables en zonas de ocio vs zonas residenciales o de oficinas.
+### 4.1. Perfil del Usuario
+El análisis revela diferencias significativas entre los **miembros anuales** y los **usuarios ocasionales** del sistema de bicicletas compartidas de Cyclistic:
 
-### 4.2. Comparaciones clave
+- **Volumen de viajes:** los miembros representan entre **63 % y 65 %** del total de viajes, mientras que los usuarios ocasionales concentran entre **35 % y 37 %**.
+- **Duración del viaje:** los usuarios ocasionales realizan trayectos **más largos en promedio**, lo que sugiere un uso orientado al ocio o turismo.
+- **Distribución por hora:**
+  - **Miembros:** concentran sus viajes en **horas pico** (mañana y tarde), reflejando desplazamientos diarios hacia el trabajo o estudio.
+  - **Ocasionales:** presentan una distribución más amplia a lo largo del día, con mayor actividad en **horarios de descanso y ocio**.
+- **Distribución por día de la semana y mes:**
+  - Los **usuarios ocasionales** muestran un incremento marcado durante los **fines de semana**.
+  - Los **miembros** mantienen un patrón más constante entre los días laborables.
+- **Estaciones de inicio y fin:** se observan **diferencias geográficas notables**:
+  - Los **usuarios ocasionales** prefieren estaciones ubicadas en **zonas turísticas o recreativas**.
+  - Los **miembros** utilizan principalmente estaciones en **áreas residenciales y de oficinas**.
 
-- ¿Cuál es la diferencia en la duración promedio del viaje entre grupos?  
-- ¿Qué porcentaje de viajes se concentra en las 3 horas pico para miembros vs ocasionales?  
-- ¿Qué estaciones dominan para los usuarios ocasionales frente a miembros?  
-- ¿Existen rutas comunes compartidas por ambos grupos, o rutas más exclusivas para ciertos segmentos?
+---
+
+### 4.2. Comparaciones Clave y Patrones Observados
+- Los **miembros** realizan **más viajes** pero de **menor duración promedio**.
+- Los **usuarios ocasionales** viajan **menos veces**, aunque sus trayectos son **más largos y esporádicos**.
+- Las **horas pico (7–9 a.m. y 5–7 p.m.)** concentran la mayoría de los viajes de los miembros, mientras que los usuarios ocasionales usan el servicio principalmente entre **10 a.m. y 6 p.m.**.
+- Las **rutas más utilizadas** difieren entre ambos segmentos:
+  - **Miembros →** rutas urbanas y regulares.
+  - **Ocasionales →** rutas hacia zonas de recreo o parques.
+
+---
+
+Estos resultados muestran **dos perfiles de usuario claramente distintos**: 
+uno enfocado en la **movilidad diaria** y otro en el **ocio ocasional**.  
+Estos hallazgos proporcionan una base sólida para **diseñar estrategias de marketing y fidelización diferenciadas** que respondan a las necesidades y comportamientos de cada tipo de usuario.
+
+
+
 
 ## 5. Hallazgos más importantes
 
