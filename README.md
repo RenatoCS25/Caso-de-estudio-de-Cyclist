@@ -71,6 +71,17 @@ uno enfocado en la **movilidad diaria** y otro en el **ocio ocasional**.
 Estos hallazgos proporcionan una base sólida para **diseñar estrategias de marketing y fidelización diferenciadas** que respondan a las necesidades y comportamientos de cada tipo de usuario.
 
 
+## 4. Análisis exploratorio y resultados
+
+### 4.1. Perfil del usuario
+El análisis muestra diferencias claras entre los miembros anuales y los usuarios ocasionales. Los miembros realizan alrededor del 65 % de los viajes totales, con trayectos más cortos y frecuentes, principalmente en horas pico (mañana y tarde), reflejando un uso cotidiano para ir al trabajo o estudio.  
+Los usuarios ocasionales, en cambio, concentran el 35 % restante, realizan viajes más largos y tienden a usar el servicio entre las 10 a.m. y 6 p.m., especialmente los fines de semana, lo que sugiere un uso recreativo o turístico.  
+
+En cuanto a las ubicaciones, los miembros utilizan más estaciones en zonas residenciales y de oficinas, mientras que los ocasionales prefieren aquellas cercanas a parques o lugares turísticos.
+
+### 4.2. Comparaciones clave y patrones observados
+Los miembros usan el sistema con mayor frecuencia pero por menos tiempo; los ocasionales hacen menos viajes pero de mayor duración. Las rutas más comunes difieren: los miembros siguen trayectos urbanos regulares, mientras que los ocasionales eligen recorridos hacia áreas de recreo.  
+En conjunto, los datos confirman dos perfiles de usuario bien definidos: uno orientado a la movilidad diaria y otro al ocio, lo que permite diseñar estrategias diferenciadas de marketing y fidelización.
 
 
 ## 5. Insights Estratégicos
