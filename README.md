@@ -1,4 +1,6 @@
 # Caso de Estudio Cyclistic
+<img width="505" height="355" alt="image" src="https://github.com/user-attachments/assets/4de441ba-d8f8-41fe-bc06-44da67470e30" />
+
 
 ## 1. Introducción  
 Proyecto de análisis de datos basado en el caso Cyclistic Bike-Share del programa Google Data Analytics.
