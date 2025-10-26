@@ -85,17 +85,12 @@ Estos hallazgos proporcionan una base sólida para **diseñar estrategias de mar
 
 ## 6. Recomendaciones estratégicas
 
-Se sugiere implementar planes de membresía flexibles ofreciendo opciones mensuales o estacionales que atraigan a usuarios ocasionales y faciliten su conversión a miembros.  
-
-También se recomienda crear programas de fidelización que recompensen la frecuencia de uso, fortaleciendo la lealtad y el compromiso con el servicio.  
-
-Las campañas de marketing deberían segmentarse hacia usuarios ocasionales durante fines de semana o temporadas turísticas, destacando los beneficios de la membresía.  
-
-Aplicar promociones en horas valle o fines de semana ayudaría a equilibrar la demanda y optimizar el uso de las bicicletas.  
-
-Mejorar la experiencia del usuario comunicando claramente ventajas como el ahorro, la comodidad y la disponibilidad puede aumentar la percepción de valor.  
-
-Finalmente, establecer alianzas locales con negocios cercanos a las estaciones permitiría ofrecer beneficios exclusivos a los miembros y fomentar un uso más frecuente del sistema.  
+1. Se sugiere implementar planes de membresía flexibles ofreciendo opciones mensuales o estacionales que atraigan a usuarios ocasionales y faciliten su conversión a miembros.  
+2. También se recomienda crear programas de fidelización que recompensen la frecuencia de uso, fortaleciendo la lealtad y el compromiso con el servicio.  
+3. Las campañas de marketing deberían segmentarse hacia usuarios ocasionales durante fines de semana o temporadas turísticas, destacando los beneficios de la membresía.  
+4. Aplicar promociones en horas valle o fines de semana ayudaría a equilibrar la demanda y optimizar el uso de las bicicletas.  
+5. Mejorar la experiencia del usuario comunicando claramente ventajas como el ahorro, la comodidad y la disponibilidad puede aumentar la percepción de valor.  
+6. Finalmente, establecer alianzas locales con negocios cercanos a las estaciones permitiría ofrecer beneficios exclusivos a los miembros y fomentar un uso más frecuente del sistema.  
 
 
 ## 7. Limitaciones y consideraciones
