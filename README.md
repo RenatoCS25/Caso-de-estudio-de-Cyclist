@@ -57,7 +57,7 @@ Las horas pico concentran una gran proporción de los trayectos de los miembros,
 
 Las rutas más populares también difieren: los miembros siguen trayectos urbanos regulares, frecuentemente entre estaciones residenciales y de oficinas, mientras que los usuarios ocasionales eligen recorridos hacia zonas de recreo o puntos de interés turístico.  
 
-En conjunto, el análisis confirma la existencia de dos perfiles de usuario claramente diferenciados:  
+El análisis confirma la existencia de dos perfiles de usuario claramente diferenciados:  
 - Un perfil **funcional**, orientado al transporte diario y la eficiencia (miembros).  
 - Un perfil **recreativo**, vinculado al ocio, el turismo y el uso esporádico (ocasionales).  
 
