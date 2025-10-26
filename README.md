@@ -1,5 +1,6 @@
 # Caso de Estudio Cyclistic
-<img width="505" height="355" alt="image" src="https://github.com/user-attachments/assets/4de441ba-d8f8-41fe-bc06-44da67470e30" />
+<img width="505" height="354" alt="image" src="https://github.com/user-attachments/assets/aaef90cf-2de9-48df-95c8-f934b411f5b5" />
+
 
 
 ## 1. Introducción  
