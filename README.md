@@ -66,11 +66,17 @@ Estos hallazgos proporcionan una base sólida para diseñar estrategias de marke
 
 ## 5. Insights Estratégicos
 
-- Los miembros usan las bicicletas para transporte diario, con viajes cortos y frecuentes, mientras que los usuarios ocasionales las utilizan por ocio o turismo, con trayectos más largos y en fines de semana.  
-- Los miembros concentran su uso en horas pico laborales, y los ocasionales durante el día y fines de semana, reflejando propósitos distintos.  
-- Los miembros prefieren estaciones en zonas residenciales y de oficinas, mientras que los ocasionales se concentran en áreas turísticas o recreativas.  
-- Los miembros realizan más viajes pero más cortos; los ocasionales, menos viajes pero más extensos.  
-- Los usuarios ocasionales aumentan su actividad en meses cálidos, mientras que los miembros mantienen un uso constante.
+El análisis de los datos permite extraer varios aprendizajes clave que orientan la toma de decisiones estratégicas:
+
+1. Los miembros y los usuarios ocasionales tienen motivaciones de uso distintas, lo que sugiere que las estrategias de marketing y fidelización deben ser segmentadas según el tipo de usuario. Los miembros valoran la eficiencia y conveniencia, mientras que los ocasionales buscan experiencias recreativas.  
+
+2. El comportamiento por horario indica que es posible optimizar la disponibilidad de bicicletas y recursos según la demanda, asegurando que haya suficientes bicicletas en horas pico para miembros y en periodos de ocio para ocasionales.  
+
+3. La ubicación de las estaciones permite diseñar campañas localizadas: promociones y alianzas estratégicas cerca de áreas recreativas pueden incentivar a los ocasionales a convertirse en miembros, mientras que en zonas residenciales y de oficinas se puede reforzar la fidelización de miembros actuales.  
+
+4. La estacionalidad del uso recreativo sugiere que se pueden lanzar campañas temporales y promociones estacionales, para atraer a más usuarios ocasionales durante los meses de mayor actividad turística o recreativa.  
+
+5. La diferencia en frecuencia y duración de los viajes muestra oportunidades para planes de membresía flexibles que se adapten tanto a usuarios habituales como a los que solo usan el servicio esporádicamente, aumentando la conversión y la satisfacción del usuario.
 
 
 
