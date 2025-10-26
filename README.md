@@ -77,40 +77,40 @@ Estos hallazgos proporcionan una base sólida para **diseñar estrategias de mar
 
 Los resultados del análisis revelan patrones de comportamiento que permiten comprender mejor las diferencias entre **usuarios miembros** y **usuarios ocasionales**, y ofrecen oportunidades para la toma de decisiones estratégicas.
 
-### 🧩 Insight 1: Dos perfiles de usuario claramente diferenciados
+###  Insight 1: Dos perfiles de usuario claramente diferenciados
 El uso del servicio evidencia dos segmentos bien definidos:
 - **Miembros anuales:** utilizan la bicicleta como medio de transporte regular, con viajes cortos, frecuentes y concentrados en días laborales.
 - **Usuarios ocasionales:** emplean el servicio principalmente por ocio o turismo, con trayectos más largos y mayor actividad durante fines de semana.
 
-➡️ **Implicación:** las estrategias de marketing deben abordar estos perfiles de manera diferenciada, destacando conveniencia y ahorro para los miembros, y experiencias recreativas para los ocasionales.
+ **Implicación:** las estrategias de marketing deben abordar estos perfiles de manera diferenciada, destacando conveniencia y ahorro para los miembros, y experiencias recreativas para los ocasionales.
 
 
-### 📈 Insight 2: El tiempo y la frecuencia son factores determinantes
+###  Insight 2: El tiempo y la frecuencia son factores determinantes
 Los miembros realizan más viajes, pero de menor duración; los ocasionales menos viajes, pero más extensos.  
 Esto refleja una **diferencia en el propósito del uso**: transporte cotidiano frente a uso recreativo.
 
-➡️ **Implicación:** ofrecer **planes flexibles** (por minutos, días o fines de semana) podría atraer a usuarios ocasionales hacia la membresía.
+ **Implicación:** ofrecer **planes flexibles** (por minutos, días o fines de semana) podría atraer a usuarios ocasionales hacia la membresía.
 
 
 
-### 🌇 Insight 3: Las horas pico marcan el uso laboral
+###  Insight 3: Las horas pico marcan el uso laboral
 Los miembros concentran sus viajes en **horas pico (7–9 a.m. y 5–7 p.m.)**, mientras que los usuarios ocasionales muestran picos entre **10 a.m. y 6 p.m.**
 
-➡️ **Implicación:** la empresa puede **optimizar la disponibilidad de bicicletas y mantenimiento** según las franjas horarias más activas de cada grupo.
+ **Implicación:** la empresa puede **optimizar la disponibilidad de bicicletas y mantenimiento** según las franjas horarias más activas de cada grupo.
 
 
 
-### 🗺️ Insight 4: La ubicación define el tipo de uso
+###  Insight 4: La ubicación define el tipo de uso
 Las estaciones más utilizadas por los miembros están en **zonas residenciales y de oficinas**, mientras que los usuarios ocasionales prefieren **zonas turísticas y recreativas**.
 
-➡️ **Implicación:** se pueden crear **campañas localizadas** o promociones específicas para cada tipo de estación, potenciando la conversión de usuarios en puntos estratégicos.
+ **Implicación:** se pueden crear **campañas localizadas** o promociones específicas para cada tipo de estación, potenciando la conversión de usuarios en puntos estratégicos.
 
 
 
-### 🕒 Insight 5: La estacionalidad influye en el comportamiento
+###  Insight 5: La estacionalidad influye en el comportamiento
 El uso de bicicletas varía según el mes y la estación del año. Los usuarios ocasionales incrementan su actividad en los meses cálidos, mientras que los miembros mantienen un patrón estable.
 
-➡️ **Implicación:** enfocar **campañas de captación de nuevos miembros** en los meses de mayor actividad turística o recreativa maximiza el impacto.
+ **Implicación:** enfocar **campañas de captación de nuevos miembros** en los meses de mayor actividad turística o recreativa maximiza el impacto.
 
 
 
