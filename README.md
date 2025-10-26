@@ -1,8 +1,8 @@
 # Caso de Estudio Cyclistic
 
 ## 1. Introducción  
-El presente proyecto es una réplica del caso de estudio de **Cyclistic Bike-Share** del programa Google Data Analytics.  
-El objetivo general es **comparar el comportamiento entre miembros anuales y usuarios ocasionales** de bicicletas compartidas, descubrir diferencias clave en sus patrones de uso y proponer recomendaciones para aumentar la conversión a membresías.
+Proyecto de análisis de datos basado en el caso Cyclistic Bike-Share del programa Google Data Analytics.
+El estudio compara el comportamiento entre miembros anuales y usuarios ocasionales para identificar patrones de uso y diseñar recomendaciones orientadas a convertir usuarios casuales en miembros permanentes.
 
 ## 2. Pregunta de negocio y preguntas de análisis
 
