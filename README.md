@@ -58,8 +58,6 @@ El análisis revela diferencias significativas entre los **miembros anuales** y 
   - Los **usuarios ocasionales** prefieren estaciones ubicadas en **zonas turísticas o recreativas**.
   - Los **miembros** utilizan principalmente estaciones en **áreas residenciales y de oficinas**.
 
----
-
 ### 4.2. Comparaciones Clave y Patrones Observados
 - Los **miembros** realizan **más viajes** pero de **menor duración promedio**.
 - Los **usuarios ocasionales** viajan **menos veces**, aunque sus trayectos son **más largos y esporádicos**.
@@ -67,8 +65,6 @@ El análisis revela diferencias significativas entre los **miembros anuales** y 
 - Las **rutas más utilizadas** difieren entre ambos segmentos:
   - **Miembros →** rutas urbanas y regulares.
   - **Ocasionales →** rutas hacia zonas de recreo o parques.
-
----
 
 Estos resultados muestran **dos perfiles de usuario claramente distintos**: 
 uno enfocado en la **movilidad diaria** y otro en el **ocio ocasional**.  
