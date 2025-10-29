@@ -11,7 +11,7 @@ El estudio compara el comportamiento entre miembros anuales y usuarios ocasional
 ## 2. Pregunta de negocio y preguntas de análisis
 
 ### 2.1. Pregunta principal de negocio  
-> ¿Cómo puede el equipo de marketing de Cyclistic diseñar estrategias que incentiven a los usuarios ocasionales a convertirse en miembros?
+¿Cómo puede el equipo de marketing de Cyclistic diseñar estrategias que incentiven a los usuarios ocasionales a convertirse en miembros?
 
 ### 2.2. Subpreguntas / preguntas de análisis  
 - ¿En qué difieren los patrones de uso (duración del viaje, frecuencia, horario) entre miembros y usuarios ocasionales?  
