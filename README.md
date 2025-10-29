@@ -1,6 +1,6 @@
 # Caso de Estudio Cyclistic
-<img width="444" height="311" alt="image" src="https://github.com/user-attachments/assets/dea91fe1-a737-4a71-b040-3c26ccd97ec6" />
-<img width="444" height="313" alt="image" src="https://github.com/user-attachments/assets/d2a5e91d-8fac-4f74-a75b-58721c9c4ebf" />
+<img width="455" height="320" alt="image" src="https://github.com/user-attachments/assets/0c0d8344-9069-4da3-b3ae-6558f90ad96a" />
+<img width="456" height="318" alt="image" src="https://github.com/user-attachments/assets/c46aef04-bd08-42d9-b174-a9e37cf1717b" />
 
 
 
