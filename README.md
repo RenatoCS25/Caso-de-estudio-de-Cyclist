@@ -46,26 +46,38 @@ Se siguió el proceso de análisis propuesto por Google Data Analytics (conocido
 - El dataset final consta de ~ 4.2 millones de registros útiles para análisis.
 
 ## 4. Análisis exploratorio y resultados
+### 4.1. Participación por tipo de usuario (2024)
+- **Miembros:** 63.87 % del total de recorridos  
+- **Usuarios ocasionales:** 36.13 % del total de recorridos  
 
-### 4.1. Perfil del usuario
-El análisis revela diferencias significativas entre los miembros anuales y los usuarios ocasionales del sistema de bicicletas compartidas de Cyclistic.  
-Los miembros representan aproximadamente entre 63 % y 65 % del total de viajes, mientras que los usuarios ocasionales concentran entre 35 % y 37 %. Los miembros suelen realizar trayectos más cortos, con una duración promedio inferior a 15 minutos, mientras que los usuarios ocasionales alcanzan tiempos promedio superiores a 25 minutos, lo que indica un uso más recreativo o turístico.  
+### 4.2. Tipo de bicicleta utilizada
+- Ambos grupos prefieren las **bicicletas clásicas**.  
+- Las **eléctricas** tienen menor uso.  
+- Solo los **usuarios ocasionales** emplean bicicletas **con anclaje**.  
 
-En cuanto a los horarios, los miembros muestran picos de uso entre las 7–9 a.m. y 5–7 p.m., coincidiendo con los desplazamientos laborales. Los usuarios ocasionales, por el contrario, presentan una distribución más uniforme durante el día, con mayor actividad entre las 10 a.m. y 6 p.m., especialmente en fines de semana y meses de verano.  
+### 4.3. Duración promedio del viaje
+- **Miembros:** 12.6 minutos  
+- **Ocasionales:** 24.2 minutos (≈ 2× más tiempo)  
 
-Geográficamente, los miembros tienden a iniciar y finalizar sus viajes en estaciones cercanas a zonas residenciales y de oficinas, mientras que los usuarios ocasionales prefieren estaciones ubicadas en áreas turísticas, parques o zonas recreativas, reflejando diferentes motivaciones de uso.
+### 4.4. Comportamiento temporal
+**Por mes:**  
+- Mayor actividad en **primavera y verano**, menor en invierno.  
 
-### 4.2. Comparaciones clave y patrones observados
-Los miembros realizan más viajes a lo largo del año, pero con menor duración promedio, mientras que los usuarios ocasionales hacen menos viajes, aunque más prolongados.  
-Las horas pico concentran una gran proporción de los trayectos de los miembros, en tanto que los usuarios ocasionales se distribuyen en horarios de ocio.  
+**Por día de la semana:**  
+- **Miembros:** más viajes de **lunes a viernes**, descenso en fines de semana.  
+- **Ocasionales:** mayor actividad **sábado y domingo**.  
 
-Las rutas más populares también difieren: los miembros siguen trayectos urbanos regulares, frecuentemente entre estaciones residenciales y de oficinas, mientras que los usuarios ocasionales eligen recorridos hacia zonas de recreo o puntos de interés turístico.  
+**Por hora:**  
+- **Miembros:** picos en **6–8 a.m.** y **4–6 p.m.** (desplazamientos laborales).  
+- **Ocasionales:** uso constante entre **10 a.m.–8 p.m.**, asociado al ocio.  
 
-El análisis confirma la existencia de dos perfiles de usuario claramente diferenciados:  
-- Un perfil **funcional**, orientado al transporte diario y la eficiencia (miembros).  
-- Un perfil **recreativo**, vinculado al ocio, el turismo y el uso esporádico (ocasionales).  
+### 4.5. Duración promedio por periodo
+- **Miembros:** duración estable durante todo el año.  
+- **Ocasionales:** viajes más largos en **primavera/verano**, **fines de semana** y entre **10 a.m.–2 p.m.**  
 
-Estos hallazgos proporcionan una base sólida para diseñar estrategias de marketing y fidelización que respondan a las necesidades específicas de cada grupo.
+### 4.6. Estaciones de partida más frecuentes
+- **Ocasionales:** zonas **turísticas y recreativas** (museos, playas, parques, puertos).  
+- **Miembros:** zonas **residenciales, laborales y educativas** (universidades, bancos, hospitales, estaciones de tren, fábricas).  
 
 
 ## 5. Insights Estratégicos
